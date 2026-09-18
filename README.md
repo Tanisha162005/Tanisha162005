@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════ ANIMATED WAVE HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:6C63FF,100:00D2FF&height=200&section=header&text=Tanisha%20Badgujar&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=AI%20%26%20ML%20Engineer%20%E2%9C%A8%20Agentic%20AI%20%E2%9C%A8%20NLP%20%E2%9C%A8%20GenAI&descSize=18&descAlignY=50&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:6C63FF,100:00D2FF&height=200&section=header&text=Tanisha%20Badgujar&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Python%20Developer%20%F0%9F%90%8D%20%E2%9C%A8%20AI%2FML%20Engineer%20%E2%9C%A8%20Agentic%20AI%20%E2%9C%A8%20NLP&descSize=18&descAlignY=50&descColor=ffffff"/>
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%E2%9C%A8+Building+Intelligent+Systems+with+AI+%E2%9C%A8;%F0%9F%94%97+Agentic+AI+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+GenAI;%F0%9F%93%8A+From+Raw+Data+%E2%86%92+Production+Models;%F0%9F%9A%80+Ship+Fast%2C+Learn+Faster%2C+Build+Always" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%F0%9F%90%8D+Python+Developer+%7C+AI%2FML+Engineer;%F0%9F%A7%A0+Agentic+AI+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+GenAI;%F0%9F%93%8A+Pandas+%C2%B7+Scikit-Learn+%C2%B7+PyTorch+%C2%B7+FastAPI;%F0%9F%9A%80+import+antigravity+%23+always+learning" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -27,13 +27,15 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
 
+🐍 &ensp;**Python is my superpower** — from scripts to production AI systems
+
 🎓 &ensp;B.Tech in **AI & Machine Learning** — RCPIT Shirpur — **GPA 9.20**
 
-🔬 &ensp;**AI Research Intern @ Tagowls** — Agentic AI & RAG systems
+🔬 &ensp;**AI Research Intern @ Tagowls** — building Agentic AI & RAG pipelines in Python
 
-💼 &ensp;**Freelance AI & Web Dev** — client consultation to production deployment
+💼 &ensp;**Freelance Python/AI Developer** — consultation → deployment
 
-🌱 &ensp;Currently exploring **Agentic AI, GenAI tooling & automation pipelines**
+🧠 &ensp;Currently deep in **LangChain, CrewAI, multi-agent systems & GenAI tooling**
 
 🏆 &ensp;**1st Place** — GDG On Campus Hackathon, DY Patil Kolhapur
 
@@ -41,7 +43,7 @@
 
 🚀 &ensp;5+ Hackathons, 1 Bootcamp, and counting...
 
-☕ &ensp;Fun fact: *I debug with chai, not coffee*
+☕ &ensp;Fun fact: *`print("I debug with chai, not coffee")`*
 
 <br clear="right"/>
 
@@ -69,29 +71,33 @@
 <tr>
 <td align="center" width="33%">
 
-<h4>🤖 AI / ML / Data</h4>
+<h4>🐍 Python Ecosystem</h4>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=3" alt="AI"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" alt="Python"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/VectorDB-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 <td align="center" width="33%">
 
-<h4>🌐 Web & Backend</h4>
+<h4>🤖 AI / ML / Deep Learning</h4>
 
-<img src="https://skillicons.dev/icons?i=flask,html,css&theme=dark&perline=3" alt="Web"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" alt="ML"/>
 <br/><br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/VectorDB-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
 
 </td>
 <td align="center" width="33%">
@@ -103,8 +109,9 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 
 </td>
 </tr>
@@ -312,8 +319,8 @@
 
 <br/><br/>
 
-<!-- Random Dev Quote for fun -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+<!-- Python Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&height=40&lines=%22Life+is+short%2C+use+Python.%22+%E2%80%94+Bruce+Eckel+%F0%9F%90%8D" alt="Python Quote"/>
 
 </div>
 
