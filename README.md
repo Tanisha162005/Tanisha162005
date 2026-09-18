@@ -67,6 +67,14 @@ Personalized fraud detection using dynamic user spending profiles and transactio
 <sub>Auto-updated daily via GitHub Actions — always in sync with my GitHub</sub>
 
 <!--START_SECTION:repos-->
+| # | Repository | Language | Description |
+|:-:|:-----------|:--------:|:------------|
+| 1 | [**The-Predictive-Smart-Inventory-Supply-Allocation-Agent.**](https://github.com/Tanisha162005/The-Predictive-Smart-Inventory-Supply-Allocation-Agent.) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> | — |
+| 2 | [**om-sai-financial-services-**](https://github.com/Tanisha162005/om-sai-financial-services-) | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white" height="20"/> | — |
+| 3 | [**off-script-website**](https://github.com/Tanisha162005/off-script-website) | <img src="https://img.shields.io/badge/Astro-555555?style=flat-square&logo=astro&logoColor=white" height="20"/> | — |
+| 4 | [**Conversational-AI-Data-Annotation-QA-Pipeline**](https://github.com/Tanisha162005/Conversational-AI-Data-Annotation-QA-Pipeline) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> | — |
+| 5 | [**sushant_website**](https://github.com/Tanisha162005/sushant_website) | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | — |
+| 6 | [**HttpsRemoteRepo**](https://github.com/Tanisha162005/HttpsRemoteRepo) | <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyternotebook&logoColor=white" height="20"/> | — |
 <!--END_SECTION:repos-->
 
 ---
