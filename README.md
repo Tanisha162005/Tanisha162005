@@ -157,14 +157,70 @@ Currently working on Agentic AI workflows, RAG pipelines, and multi-agent system
 <sub>🔄 Auto-updated daily via GitHub Actions — always in sync with my GitHub</sub>
 
 <!--START_SECTION:repos-->
-| # | Repository | Language | Description |
-|:-:|:-----------|:--------:|:------------|
-| 1 | [**The-Predictive-Smart-Inventory-Supply-Allocation-Agent.**](https://github.com/Tanisha162005/The-Predictive-Smart-Inventory-Supply-Allocation-Agent.) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> | — |
-| 2 | [**om-sai-financial-services-**](https://github.com/Tanisha162005/om-sai-financial-services-) | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white" height="20"/> | — |
-| 3 | [**off-script-website**](https://github.com/Tanisha162005/off-script-website) | <img src="https://img.shields.io/badge/Astro-555555?style=flat-square&logo=astro&logoColor=white" height="20"/> | — |
-| 4 | [**Conversational-AI-Data-Annotation-QA-Pipeline**](https://github.com/Tanisha162005/Conversational-AI-Data-Annotation-QA-Pipeline) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> | — |
-| 5 | [**sushant_website**](https://github.com/Tanisha162005/sushant_website) | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | — |
-| 6 | [**HttpsRemoteRepo**](https://github.com/Tanisha162005/HttpsRemoteRepo) | <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyternotebook&logoColor=white" height="20"/> | — |
+
+<div align='center'>
+
+**📦 6 Public Repositories** · Sorted by most recently updated
+
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="center">🔢</th>
+<th align="left">Repository</th>
+<th align="center">Language</th>
+<th align="left">Description</th>
+<th align="center">Updated</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>1</b></td>
+<td align="left">🐍 <a href="https://github.com/Tanisha162005/The-Predictive-Smart-Inventory-Supply-Allocation-Agent."><b>The-Predictive-Smart-Inventory-Supply-Allocation-Agent.</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/></td>
+<td align="left"><i>No description</i></td>
+<td align="center"><sub>today</sub></td>
+</tr>
+<tr>
+<td align="center"><b>2</b></td>
+<td align="left">🌐 <a href="https://github.com/Tanisha162005/om-sai-financial-services-"><b>om-sai-financial-services-</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white" height="18"/></td>
+<td align="left"><i>No description</i></td>
+<td align="center"><sub>today</sub></td>
+</tr>
+<tr>
+<td align="center"><b>3</b></td>
+<td align="left">📁 <a href="https://github.com/Tanisha162005/off-script-website"><b>off-script-website</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Astro-555555?style=flat-square&logo=astro&logoColor=white" height="18"/></td>
+<td align="left"><i>No description</i></td>
+<td align="center"><sub>yesterday</sub></td>
+</tr>
+<tr>
+<td align="center"><b>4</b></td>
+<td align="left">🐍 <a href="https://github.com/Tanisha162005/Conversational-AI-Data-Annotation-QA-Pipeline"><b>Conversational-AI-Data-Annotation-QA-Pipeline</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/></td>
+<td align="left"><i>No description</i></td>
+<td align="center"><sub>1 week ago</sub></td>
+</tr>
+<tr>
+<td align="center"><b>5</b></td>
+<td align="left">💎 <a href="https://github.com/Tanisha162005/sushant_website"><b>sushant_website</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18"/></td>
+<td align="left"><i>No description</i></td>
+<td align="center"><sub>2 weeks ago</sub></td>
+</tr>
+<tr>
+<td align="center"><b>6</b></td>
+<td align="left">📓 <a href="https://github.com/Tanisha162005/HttpsRemoteRepo"><b>HttpsRemoteRepo</b></a></td>
+<td align="center"><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyternotebook&logoColor=white" height="18"/></td>
+<td align="left"><i>No description</i></td>
+<td align="center"><sub>2 years ago</sub></td>
+</tr>
+</tbody>
+</table>
+
+<p align='right'><sub>🕐 Last updated: September 18, 2026 at 18:51 UTC</sub></p>
 <!--END_SECTION:repos-->
 
 <!-- Animated line -->
