@@ -219,40 +219,40 @@
 <td align="left">🐍 <a href="https://github.com/Tanisha162005/The-Predictive-Smart-Inventory-Supply-Allocation-Agent."><b>The-Predictive-Smart-Inventory-Supply-Allocation-Agent.</b></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/></td>
 <td align="left"><i>No description</i></td>
-<td align="center"><sub>yesterday</sub></td>
+<td align="center"><sub>2 days ago</sub></td>
 </tr>
 <tr>
 <td align="center"><b>2</b></td>
 <td align="left">💎 <a href="https://github.com/Tanisha162005/Tanisha_portfolio"><b>Tanisha_portfolio</b></a></td>
 <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18"/></td>
 <td align="left"><i>No description</i></td>
-<td align="center"><sub>2 days ago</sub></td>
+<td align="center"><sub>3 days ago</sub></td>
 </tr>
 <tr>
 <td align="center"><b>3</b></td>
 <td align="left">🌐 <a href="https://github.com/Tanisha162005/om-sai-financial-services-"><b>om-sai-financial-services-</b></a></td>
 <td align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white" height="18"/></td>
 <td align="left"><i>No description</i></td>
-<td align="center"><sub>6 days ago</sub></td>
+<td align="center"><sub>1 week ago</sub></td>
 </tr>
 <tr>
 <td align="center"><b>4</b></td>
 <td align="left">🐍 <a href="https://github.com/Tanisha162005/Conversational-AI-Data-Annotation-QA-Pipeline"><b>Conversational-AI-Data-Annotation-QA-Pipeline</b></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/></td>
 <td align="left"><i>No description</i></td>
-<td align="center"><sub>1 week ago</sub></td>
+<td align="center"><sub>2 weeks ago</sub></td>
 </tr>
 <tr>
 <td align="center"><b>5</b></td>
 <td align="left">💎 <a href="https://github.com/Tanisha162005/sushant_website"><b>sushant_website</b></a></td>
 <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18"/></td>
 <td align="left"><i>No description</i></td>
-<td align="center"><sub>2 weeks ago</sub></td>
+<td align="center"><sub>3 weeks ago</sub></td>
 </tr>
 </tbody>
 </table>
 
-<p align='right'><sub>🕐 Last updated: September 24, 2026 at 03:28 UTC</sub></p>
+<p align='right'><sub>🕐 Last updated: September 25, 2026 at 03:45 UTC</sub></p>
 <!--END_SECTION:repos-->
 
 <!-- ═══════════════ RAINBOW DIVIDER ═══════════════ -->
